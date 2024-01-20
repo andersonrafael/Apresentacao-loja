@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@800;900&display=swap');
+
+
+body {
+    height: 100vh;
+    background-color: #B0E0E6;
+
+
+}
+
+.apresentacao {
+    margin: 10% 10%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.titulo {
+    font-family: 'Cairo', sans-serif;
+    font-size: 35px;
+    color: #fb7602;
+}
+
+img {
+
+    background-color: aliceblue;
+    border-radius: 3%;
+    width: 350px;
+    height: 350px;
+}
+
+.apresentacao_texto {
+    width: 615px;
+    color: #3F72AF;
+    font-size: 18px;
+    text-align: justify;
+    font-family: 'Cairo', sans-serif;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+
+}
+
+.links {
+    display: flex;
+    justify-content: space-between;
+    font-weight: bolder;
+    align-items: center;
+    padding-top: 5px;
+}
+
+.instagram {
+    font-family: 'Cairo', sans-serif;
+    font-size: larger;
+    text-align: center;
+    color: #fb7602;
+    background-color: rgb(15, 8, 84);
+    border-radius: 13px;
+    padding: 10px 0;
+    width: 280px;
+
+
+}
+
+.whatsapp {
+    font-family: 'Cairo', sans-serif;
+    font-size: larger;
+    text-align: center;
+    color: #fb7602;
+    background-color: rgb(15, 8, 84);
+    border-radius: 13px;
+    padding: 10px 0;
+    width: 280px;
+
+}
